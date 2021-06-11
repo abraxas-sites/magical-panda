@@ -1,5 +1,5 @@
-import * as http from 'http'
-import * as ws from 'ws'
+const http = require('http')
+const ws = require('ws')
 
 const port = 8080
 
